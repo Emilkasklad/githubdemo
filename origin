@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="plik1.css">
+</head>
+<body>
+<h1><b><i>Parę słów o mnie...</i></b></h1><hr/>
+<h2>Nazywam się Emilia, postaram się przytoczyć ciekawe informacje na mój temat.Pochodzę z Pomorza. Urodziłam się w Białogardzie. Początki dzieciństwa spędziłam w Rosnowie. Nie wielka miejscowość w pobliżu Koszlina, a rzut beretem do Kołobrzegu.
+Natomiast w wieku 7 lat przeprowadziłam się wraz z rodziną do Mińska Mazowiekiego. Ostatecznie po upływie kilku lat udomowiłam się w Warszawie,w której do dziś mieszkam.</h2>
+<p><b><h2>W razie pytań Zapraszam do przesyłania wiadomości</h2></b><address><a href="mailto:emilkasklad@gmail.com">emilkasklad@gmail.com</a></p></address>
+
+</body>
+</html>
